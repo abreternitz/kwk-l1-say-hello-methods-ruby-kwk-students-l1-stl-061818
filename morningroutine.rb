@@ -6,3 +6,4 @@ def morning_routine
 end
 
 morning_routine
+morning_routine
