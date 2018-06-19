@@ -5,5 +5,6 @@ def morning_routine
   puts "change clothes"
 end
 
-morning_routine
-morning_routine
+def day
+  morning_routine
+end
