@@ -4,3 +4,5 @@ def morning_routine
   puts "I get out of bed"
   puts "change clothes"
 end
+
+morning_routine
